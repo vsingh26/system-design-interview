@@ -255,6 +255,7 @@ Use design patterns such that it can be reused in multiple applications.
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
-
-
-
+-------------------------------------------2016-11-29-------------------------------------------
+AGILE Methodology:
+INVEST acronym: http://agileforall.com/new-to-agile-invest-in-good-user-stories/
+Magic Question: http://agileforall.com/when-in-doubt-ask-how-will-i-know-ive-done-that-2/
